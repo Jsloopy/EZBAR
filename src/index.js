@@ -1,9 +1,10 @@
-import React, {Component} from 'react'
+import Chart from './Chart/Chart.js';
+// import BaseSelect from './Components/Base/BaseSelect.js';
+// import CountrySelect from './Components/CountrySelect/CountrySelect.js'
 
-export default class extends Component {
-  render() {
-    return <div>
-      <h2>Welcome to React components</h2>
-    </div>
-  }
+export{
+  Chart,
+  
+
 }
+
