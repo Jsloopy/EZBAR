@@ -4,11 +4,14 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-EZ Bar Chart gives you a pre-made chart area to build bar graphs. 
+<img src="/Users/sloop/Desktop/ezbarchart.png" alt="bar Logo">
+
+
+EZ Bar Chart gives you a pre-made chart area to build bar graphs. Add your information to the chart component and the bars will form. 
 
 Installation:
-npm install --save kc-react-widgets   # using NPM
-yarn add kc-react-widgets             # using yarn
+npm install --save EZ-bar-chart # using NPM
+
 
 License:
 EZ-bar-chart is licensed under the MIT license.
@@ -16,6 +19,8 @@ EZ-bar-chart is licensed under the MIT license.
 Contributions:
 You may pull.
 
+Demo
+<img src="/Users/sloop/Desktop/barchart.png" alt="bar pic">
 
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
