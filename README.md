@@ -4,7 +4,7 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-![logo](./imgs/barchart.png")
+![logo](./imgs/barchart.png)
 
 
 EZ Bar Chart gives you a pre-made chart area to build bar graphs. Add your information to the chart component and the bars will form. 
