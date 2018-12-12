@@ -84,14 +84,7 @@ class App extends Component {
           <nav className="topnav">
             Currency Exchange Rate
   
-                {/* <Base
-              BaseChange={this.onSubmit.bind(this)}
-            /> */}
-
-
-            {/* <Country
-              onChange={this.countrySelect.bind(this)}
-            /> */}
+                
 
           </nav>
 
