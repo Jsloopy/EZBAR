@@ -4,7 +4,7 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-![logo](file:///Users/sloop/Desktop/ezbarchart.png")
+![logo](./imgs/barchart.png")
 
 
 EZ Bar Chart gives you a pre-made chart area to build bar graphs. Add your information to the chart component and the bars will form. 
@@ -20,7 +20,7 @@ Contributions:
 You may pull.
 
 Demo
-![barchart](file:///Users/sloop/Desktop/barchart.png)
+![barchart](./imgs/barchart.png)
 
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
