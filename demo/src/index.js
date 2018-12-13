@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './index.css';
 
 import Chart from './components/Chart/Chart.js';
 import Base from './components/Base/Base.js';
